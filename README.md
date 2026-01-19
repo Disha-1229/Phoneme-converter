@@ -12,7 +12,7 @@ A simple Python tool that converts phonetic symbols (like IPA) to rough English 
 - On-screen phoneme keyboard
 - Scrollable text input + output fields
 - Beginner-friendly & pure Python
-- Great for linguistics/demo/mini-projects
+  
 
 ---
 
